@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "evm": {
+    "bytecode": {
+      "linkReferences": {},
+      "object": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e74cc92bb090e873849b11d53acc148c26f2dbaa77392aa9a977b57b80bb02ef64736f6c634300060c0033",
+      "opcodes": "PUSH1 0x56 PUSH1 0x23 PUSH1 0xB DUP3 DUP3 DUP3 CODECOPY DUP1 MLOAD PUSH1 0x0 BYTE PUSH1 0x73 EQ PUSH1 0x16 JUMPI INVALID JUMPDEST ADDRESS PUSH1 0x0 MSTORE PUSH1 0x73 DUP2 MSTORE8 DUP3 DUP2 RETURN INVALID PUSH20 0x0 ADDRESS EQ PUSH1 0x80 PUSH1 0x40 MSTORE PUSH1 0x0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 0xE7 0x4C 0xC9 0x2B 0xB0 SWAP1 0xE8 PUSH20 0x849B11D53ACC148C26F2DBAA77392AA9A977B57B DUP1 0xBB MUL 0xEF PUSH5 0x736F6C6343 STOP MOD 0xC STOP CALLER ",
+      "sourceMap": "193:1079:6:-:0;;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    "deployedBytecode": {
+      "immutableReferences": {},
+      "linkReferences": {},
+      "object": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e74cc92bb090e873849b11d53acc148c26f2dbaa77392aa9a977b57b80bb02ef64736f6c634300060c0033",
+      "opcodes": "PUSH20 0x0 ADDRESS EQ PUSH1 0x80 PUSH1 0x40 MSTORE PUSH1 0x0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 0xE7 0x4C 0xC9 0x2B 0xB0 SWAP1 0xE8 PUSH20 0x849B11D53ACC148C26F2DBAA77392AA9A977B57B DUP1 0xBB MUL 0xEF PUSH5 0x736F6C6343 STOP MOD 0xC STOP CALLER ",
+      "sourceMap": "193:1079:6:-:0;;;;;;;;"
+    }
+  },
+  "metadata": "{\"compiler\":{\"version\":\"0.6.12+commit.27d51765\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"@venomswap/lib/contracts/libraries/FullMath.sol\":\"FullMath\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"@venomswap/lib/contracts/libraries/FullMath.sol\":{\"keccak256\":\"0x074f43cf798f046118ed21bb9859a7fa1074b9581fe315c8702d6d292fdb2784\",\"license\":\"CC-BY-4.0\",\"urls\":[\"bzz-raw://55a5cb6c5ae9ccc1e6870315bfa5f23f4c758db606f6a292fdff2224fcec082e\",\"dweb:/ipfs/QmRZayK4DWdWHaape9XcVj6VobzX7en7Tejk7gbzv7CHTy\"]}},\"version\":1}",
+  "interface": [],
+  "bytecode": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e74cc92bb090e873849b11d53acc148c26f2dbaa77392aa9a977b57b80bb02ef64736f6c634300060c0033"
+}

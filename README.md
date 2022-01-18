@@ -1,11 +1,11 @@
 # smartswap-dex-contracts
 
-Factory: `0xDd749813a4561100bDD3F50079a07110d148EaF5`
-Router: `0xE714f5768aa7F0F1623064985934FF9e12A9E61e`
-GovernanceToken: `0x47c259DFe165Cef3e429C9B66bf9ce9dc3e68aC2`
-MasterBreeder: `0x14C15BD8ba2854750770D38472dc5633152f70aa`
-Pit: `0x46269c22848738573761eC50a736916272857f83`
-PitBreeder: `0xd842Aae7ed615A4ee936d716Cf0F30aD7cB88849`
+Factory: `0xDd749813a4561100bDD3F50079a07110d148EaF5`  
+Router: `0xE714f5768aa7F0F1623064985934FF9e12A9E61e`  
+GovernanceToken: `0x47c259DFe165Cef3e429C9B66bf9ce9dc3e68aC2`  
+MasterBreeder: `0x14C15BD8ba2854750770D38472dc5633152f70aa`  
+Pit: `0x46269c22848738573761eC50a736916272857f83`  
+PitBreeder: `0xd842Aae7ed615A4ee936d716Cf0F30aD7cB88849`  
 
 ## how to verify
 SmartScan.cash lacks contract verification functionality and contractverifier.com has been down for some time so verification must be performed manually.

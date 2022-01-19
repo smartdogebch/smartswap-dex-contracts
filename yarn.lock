@@ -332,11 +332,6 @@
     "@sentry/types" "5.30.0"
     tslib "^1.9.3"
 
-"@smartswap/core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@smartswap/core/-/core-0.1.0.tgz#e54f681a04798b9e3192e9ec54269541186c51ef"
-  integrity sha512-bofWu6OWw2m5/Nx1blIzAy4dLTVOt5ZqZbiwc+CUE5u54B7YNld6epTjIBvtKGwCaycyA7Phsw2c4/zg4kn9cA==
-
 "@solidity-parser/parser@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.14.0.tgz#d51f074efb0acce0e953ec48133561ed710cebc0"
@@ -420,6 +415,16 @@
   integrity sha512-Da66lEIFeIz9ltsdMZcpQvmrmmoqrfju8pm1BH8WbYjZSwUgCwXLb9C+9XYogwBITnbsSaMdVPb2ekf7TV+03w==
   dependencies:
     "@types/node" "*"
+
+"@venomswap/core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@venomswap/core/-/core-1.0.0.tgz#f1336702e8ecce6b79b06212220da43a34b3749c"
+  integrity sha512-cd4+e5KKH7QmSjMhe50lty35eHuZVTh9YYnkWPdQPe6KG3R5P5JE3LFliwNLpuV4jWEYYRlEa3OaG3ie+BlYrg==
+
+"@venomswap/core@npm:@smartswap/core@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@smartswap/core/-/core-0.1.0.tgz#e54f681a04798b9e3192e9ec54269541186c51ef"
+  integrity sha512-bofWu6OWw2m5/Nx1blIzAy4dLTVOt5ZqZbiwc+CUE5u54B7YNld6epTjIBvtKGwCaycyA7Phsw2c4/zg4kn9cA==
 
 abort-controller@^3.0.0:
   version "3.0.0"

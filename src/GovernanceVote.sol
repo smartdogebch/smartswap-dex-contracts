@@ -4,7 +4,7 @@ pragma solidity 0.6.12;
 
 import "@openzeppelin/contracts/math/SafeMath.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-import "@smartswap/core/contracts/interfaces/IUniswapV2Pair.sol";
+import "@venomswap/core/contracts/interfaces/IUniswapV2Pair.sol";
 import "./interfaces/IGovernanceToken.sol";
 import "./interfaces/IMasterBreeder.sol";
 
